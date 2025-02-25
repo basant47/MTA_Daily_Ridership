@@ -1,5 +1,9 @@
 # MTA Daily Ridership Analysis
 
+### Team Members
+
+Basant Shaker - Roqaia Osama - Youssef Khaled - Nourhan Selim - George Issa
+
 ### Project Objectives
 
 1-Understand ridership trends across different transportation modes (Time series).
